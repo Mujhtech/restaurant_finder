@@ -213,6 +213,8 @@ class _RegisterScreenState extends State<RegisterScreen> {
                         if (!await context
                             .read(authControllerProvider)
                             .signUp(email.text.trim(), password.text.trim())) {
+                          final snackBar = SnackBar(content: Text(auth.error!));
+                          ScaffoldMessenger.of(context).showSnackBar(snackBar);
                           return;
                         }
 

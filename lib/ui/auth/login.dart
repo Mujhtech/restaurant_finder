@@ -215,6 +215,8 @@ class _LoginScreenState extends State<LoginScreen> {
                         if (!await context
                             .read(authControllerProvider)
                             .signIn(email.text.trim(), password.text.trim())) {
+                          final snackBar = SnackBar(content: Text(auth.error!));
+                          ScaffoldMessenger.of(context).showSnackBar(snackBar);
                           return;
                         }
 
