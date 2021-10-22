@@ -2,7 +2,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:restaurant_finder/app_theme.dart';
-import 'package:restaurant_finder/ui/auth_state.dart';
+import 'package:restaurant_finder/ui/splash.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -23,6 +23,6 @@ class MyApp extends StatelessWidget {
         themeMode: ThemeMode.system,
         theme: AppTheme.lightTheme,
         darkTheme: AppTheme.darkTheme,
-        home: const AuthStateScreen());
+        home: const SplashScreen());
   }
 }
