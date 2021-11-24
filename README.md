@@ -13,7 +13,7 @@ Restaurant finder app
 4. Run your app in debug mode ```flutter run```.
 
 
-![Splash Screen](/screenshots/screenshot1.png?raw=true "Splash Screen"){:width="180px"}
+<img src="/screenshots/screenshot1.png?raw=true" alt="Splash Screen" width="180">
 
 ![Login Screen](/screenshots/screenshot2.png?raw=true "Login Screen"){:width="180px"}
 
