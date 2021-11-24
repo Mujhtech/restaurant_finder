@@ -126,9 +126,9 @@ class _HomeScreenState extends State<HomeScreen> {
                       ),
                       markers: markers
                         ..add(Marker(
-                            markerId: const MarkerId("User Location"),
+                            markerId: const MarkerId("My Location"),
                             infoWindow:
-                                const InfoWindow(title: "User Location"),
+                                const InfoWindow(title: "My Location"),
                             position: _userLocation)),
                     );
                   }
