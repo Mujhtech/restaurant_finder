@@ -12,18 +12,6 @@ Restaurant finder app
 
 4. Run your app in debug mode `flutter run`.
 
-<img src="/screenshots/screenshot1.png?raw=true" alt="Splash Screen" width="180">
+<img src="/screenshots/screenshot1.png?raw=true" alt="Splash Screen" width="180"><img src="/screenshots/screenshot2.png?raw=true" alt="Login Screen" width="180"><img src="/screenshots/screenshot3.png?raw=true" alt="Register Screen" width="180"><img src="/screenshots/screenshot4.png?raw=true" alt="Logout Dialog" width="180">
 
-<img src="/screenshots/screenshot2.png?raw=true" alt="Login Screen" width="180">
-
-<img src="/screenshots/screenshot3.png?raw=true" alt="Register Screen" width="180">
-
-<img src="/screenshots/screenshot4.png?raw=true" alt="Logout Dialog" width="180">
-
-<img src="/screenshots/screenshot5.png?raw=true" alt="Home Screen" width="180">
-
-<img src="/screenshots/screenshot6.png?raw=true" alt="Home Screen" width="180">
-
-<img src="/screenshots/screenshot7.png?raw=true" alt="Single Restaurant Dialog" width="180">
-
-<img src="/screenshots/screenshot8.png?raw=true" alt="Single Restaurant Dialog" width="180">
+<img src="/screenshots/screenshot5.png?raw=true" alt="Home Screen" width="180"><img src="/screenshots/screenshot6.png?raw=true" alt="Home Screen" width="180"><img src="/screenshots/screenshot7.png?raw=true" alt="Single Restaurant Dialog" width="180"><img src="/screenshots/screenshot8.png?raw=true" alt="Single Restaurant Dialog" width="180">
